@@ -19,14 +19,14 @@
         </ul>
             </td>
             <td>
-                <img src="https://i.pinimg.com/564x/8b/1e/02/8b1e02fdc040e4a12589109dd3ef9246.jpg" alt="Portfolio Logo">
+                <img src="https://i.pinimg.com/564x/06/4e/fe/064efef4105200431714134798a49811.jpg" alt="Portfolio Logo">
             </td>
         </tr>
     </table>
     <div class="container">
         <h2>Projects</h2>
-        <h3><a href="https://github.com/nurzhanova2/flutter-finance-app-">Flutter Finance App</a></h3>
-        <h3><a href="https://github.com/nurzhanova2/bl0g.DIAZ">Blog(Java Spring)</a></h3>
+        <h3><a href="https://github.com/nurzhanova2/flutter-finance-app-">Flutter Finance App 🐇</a></h3>
+        <h3><a href="https://github.com/nurzhanova2/bl0g.DIAZ">Blog(Java Spring) 💗</a></h3>
 
 
 
