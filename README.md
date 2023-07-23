@@ -19,7 +19,7 @@
         </ul>
             </td>
             <td>
-                <img src="https://i.pinimg.com/564x/06/4e/fe/064efef4105200431714134798a49811.jpg" alt="Portfolio Logo">
+                <img src="https://i.pinimg.com/564x/80/8e/0c/808e0c35f708accf8b2c51ed1d6cfeb0.jpg" alt="Portfolio Logo">
             </td>
         </tr>
     </table>
