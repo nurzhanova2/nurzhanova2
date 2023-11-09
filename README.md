@@ -24,12 +24,6 @@
         </tr>
     </table>
     <div class="container">
-        <h2>Projects</h2>
-        <h3><a href="https://github.com/nurzhanova2/flutter-finance-app-">Flutter Finance App 🐇</a></h3>
-        <h3><a href="https://github.com/nurzhanova2/bl0g.DIAZ">Blog(Java Spring) 💗</a></h3>
-
-
-
 </body>
 <div class="contact-info">
             <h2>Contact Me</h2>
