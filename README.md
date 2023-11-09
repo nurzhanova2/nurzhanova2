@@ -2,36 +2,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <table>
-        <tr>
-            <td>
-                <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&weight=700&size=23&pause=500&color=F72EA9&width=435&lines=Hi,+I'am+Zarina+Nurzhanova+o((>ω< ))oo((>ω< ))o;" alt="Typing SVG" /></a>
-                <h2>A little more about me...</h2>
-                <p> I am a Frontend developer ^_~ </p>
-                <p> Fun fact: I love kittens (❤️´艸｀❤️)</p>
-                <p> (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ How to reach me: <a href="mailto:nurzhanovazarina1@gmail.com">nurzhanovazarina1@gmail.com</a> </p>
-                <h2>Skills</h2>
-                <ul>
-            <li>⚙️Flutter</li>
-            <li>⚙️Java, Kotlin</li>
-            <li>⚙️HTML, CSS, JavaScript, Vue</li>
-            <li>⚙️Firebase</li>
-        </ul>
-            </td>
-            <td>
-                <img src="https://i.pinimg.com/564x/80/8e/0c/808e0c35f708accf8b2c51ed1d6cfeb0.jpg" alt="Portfolio Logo">
-            </td>
-        </tr>
-    </table>
-    <div class="container">
-</body>
-<div class="contact-info">
-            <h2>Contact Me</h2>
-            <p>💻GitHub: <a href="https://github.com/nurzhanova2">nurzhanova2</a></p>
-            <p>👀LinkedIn: <a href="https://www.linkedin.com/in/zarina-nurzhanova-6a72891b5/">Zarina Nurzhanova</a></p>
-            <p>📩Email: <a href="mailto:nurzhanovazarina1@gmail.com">nurzhanovazarina1@gmail.com</a></p>   
+    <h1 align="center">Hi there, I'm <a href="https://nurzhanova2.github.io/portfolio/" target="_blank">ZARINA</a> 👋
+                <h2>💻 Stack:</h2>
+                 <div style="display: flex;">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src= " https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)">
 </div>
 <div>
-    
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurzhanova2&theme=2077)
+
+</div>
+    <div class="container">
+</body>
+<div>
 </div>
 </html>
