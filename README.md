@@ -1,42 +1,35 @@
-## `> whoami`
-
-```python
-class ZarinaNurzhanova:
-    
-    def __init__(self):
-        self.role = ["Backend Developer", "Data Engineer", "ML Engineer"]
-        self.location = "Kazakhstan 🇰🇿"
-        self.languages = ["Python", "SQL", "Bash"]
-        self.currently = "Building scalable data pipelines, ML systems & backend services"
-    
-    def daily_stack(self):
-        return {
-            "backend":  ["FastAPI", "Django", "Flask", "asyncio"],
-            "data":     ["Apache Airflow", "Spark", "Kafka", "dbt"],
-            "ml":       ["PyTorch", "scikit-learn", "CatBoost", "XGBoost", "MLflow"],
-            "storage":  ["PostgreSQL", "ClickHouse", "Redis", "S3"],
-            "devops":   ["Docker", "Kubernetes", "GitHub Actions", "Terraform"],
-        }
-
-    def interests(self):
-        return [
-            "Machine Learning",
-            "MLOps",
-            "Data Engineering",
-            "Distributed Systems",
-            "Forecasting",
-            "LLM Applications"
-        ]
-    
-    def motto(self):
-        return "If it's manual, it should be automated."
+```text
+*###%%%%%%%%@%@%%@%%%%%#%%%*####*############****#**********   zarina@nurzhanova
+###**#*+#%%%@%%@@%@%%%%%#%%%################################   ------------------------------------------
+####+=*#*###%%#%%%%%@@@@@@%%%%%%%%##########################   Role:        Backend Developer, Data Engineer,
+*+---=*#%%%%%%@%%%%@%%%%%%%%%%%%############################                ML Engineer
+==+***%%##%%%%%@%%%%%%%%%%@@@@%%############################   Location:    Kazakhstan
+****##******#%%%@@@%%%%%%%%%%%%%%#***##############******+++   Languages:   Python, SQL, Bash
+###**+++*#%%%%%%%%%#%%%%%%%%%%%%%%%#***++===-----------=.---   Currently:   Building scalable data pipelines,
+*++=-:::-=====+=======+*###%##%%%%%**+=::+==+=---------= :=-                ML systems & backend services
+:.      .-----::::.....  ......::------=+**********#*#%%==%%   
+       .:+#+---::::::::::.:=-=:..-==..:--:::::-+####*###**##   - Daily Stack --------------------------
+      ...:-::...:::.:::-:  --:. :-==-:-=---=+=..:*#*##***+##   Backend:     FastAPI, Django, Flask, asyncio
+         .    .   .:::::.         .::.-..::.... .+***#*#####   Data:        Airflow, Spark, Kafka, dbt
+                   .::::   ==.      ..=.. - .    #**###*#**#   ML:          PyTorch, scikit-learn, CatBoost,
+          .        .::.  .*+=:      .:=+=+*=-:  .##***#####*                XGBoost, MLflow
+          .:::::.  ...  :##%##  ..  .:-****+++. +#%#########   Storage:     PostgreSQL, ClickHouse, Redis, S3
+        .  ..::.    .  .+*+=-::..   ::-*+*+*=  =*##*#%##**##   DevOps:      Docker, Kubernetes, GH Actions,
+          ::......:-.:++--=++===++....:***+- :##**#****#####                Terraform
+              ..:-::-++=:-+#*++**##=:.:+=+++#######%%%#***##   
+      ..:---:::::::***+=+***+---=++#*--+#%#######*+*-=**++##   - Interests ----------------------------
+      .:--=++++++==+**++*#=...-+*+==++=#*=####**#*#**+**++*#   Machine Learning, MLOps, Data Engineering,
+      ..:-=+++++==+****+=+     .:.....#=*##%#%%#%%%%###%%###   Distributed Systems, Forecasting, LLM Apps
+   .. ..  -==++=++*****+++.           +-:.:+##*=+-#%########   
+   .. ... .:-===+****+*+++=:        .#=:.:++#****-+*+*+#####   - Motto --------------------------------
+  ....:-:....-=++****+++====.      :*%%%+***..:=*######**###   "If it's manual, it should be automated."
+ .... ...... .-++****+==-::::...:+######**##*=--+#####**=.=-   
+. ...  ..-=-:::-++***++===::::==+******#%%%%%%%%%%###****+*+   
+ . .. .:-++=+=---==+++****++++*+*######%%%%%%###*#*##*#*+*##   
+   .  . :--======---:--=====--=**#%%%%%%%%#######*######****   
+ .  .   .::-----=.::...:::::::=+*##%%%#%%%%#%#%##%%%%#%##%%#   
+   .   :::---:::... .::.:::::-=++*++*##%##**##+-*#%%%#######   
+   . :.::----::..... ..:..::-==++*=++*##%##***+**=+#%%%#***#   
+  ...:::----:::...   ... :::--=+++#*####%**##=#+-*#**%%%%###   
+ ....::---:......       :::.:==+*++****+==##*.:*#=*#*#%%%%%%
 ```
-
-
-
-
-
-
-
-
-
