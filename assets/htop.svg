@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="960" height="363" viewBox="0 0 960 363">
+<style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 13px; white-space: pre; }
+    .m { animation: load ease-in-out infinite alternate; }
+    .m1 { animation-delay: -1s; } .m2 { animation-delay: -0.4s; } .m3 { animation-delay: -1.7s; } .m4 { animation-delay: -0.9s; }
+    @keyframes load { from { transform: scaleX(0.55); } to { transform: scaleX(1); } }
+    .sel { animation: sel 9.6s steps(8) infinite; }
+    @keyframes sel { from { transform: translateY(0); } to { transform: translateY(152px); } }
+    </style>
+<rect x="0.5" y="0.5" width="959" height="362" rx="8" fill="#0c0c0c" stroke="#303030"/>
+<text x="18" y="32" fill="#3fb6c6" text-anchor="start">Backend</text>
+<text x="80" y="32" fill="#d0d0d0" font-weight="bold" text-anchor="start">[</text>
+<text x="340" y="32" fill="#d0d0d0" font-weight="bold" text-anchor="start">]</text>
+<g class="m m0" style="animation-duration:2.6s; transform-origin:88px 32px">
+<rect x="88.0" y="21" width="102.5" height="12" fill="#5fd75f"/>
+<rect x="190.5" y="21" width="61.5" height="12" fill="#5f87ff"/>
+<rect x="252.0" y="21" width="41.0" height="12" fill="#ff5f5f"/>
+</g>
+<text x="352" y="32" fill="#7a7a7a" text-anchor="start">FastAPI Django Flask asyncio</text>
+<text x="18" y="51" fill="#3fb6c6" text-anchor="start">Data</text>
+<text x="80" y="51" fill="#d0d0d0" font-weight="bold" text-anchor="start">[</text>
+<text x="340" y="51" fill="#d0d0d0" font-weight="bold" text-anchor="start">]</text>
+<g class="m m1" style="animation-duration:3.1s; transform-origin:88px 51px">
+<rect x="88.0" y="40" width="112.5" height="12" fill="#5fd75f"/>
+<rect x="200.5" y="40" width="67.5" height="12" fill="#5f87ff"/>
+<rect x="268.0" y="40" width="45.0" height="12" fill="#ff5f5f"/>
+</g>
+<text x="352" y="51" fill="#7a7a7a" text-anchor="start">Airflow Spark Kafka dbt</text>
+<text x="18" y="70" fill="#3fb6c6" text-anchor="start">ML</text>
+<text x="80" y="70" fill="#d0d0d0" font-weight="bold" text-anchor="start">[</text>
+<text x="340" y="70" fill="#d0d0d0" font-weight="bold" text-anchor="start">]</text>
+<g class="m m2" style="animation-duration:2.2s; transform-origin:88px 70px">
+<rect x="88.0" y="59" width="92.5" height="12" fill="#5fd75f"/>
+<rect x="180.5" y="59" width="55.5" height="12" fill="#5f87ff"/>
+<rect x="236.0" y="59" width="37.0" height="12" fill="#ff5f5f"/>
+</g>
+<text x="352" y="70" fill="#7a7a7a" text-anchor="start">PyTorch CatBoost XGBoost MLflow</text>
+<text x="18" y="89" fill="#3fb6c6" text-anchor="start">Storage</text>
+<text x="80" y="89" fill="#d0d0d0" font-weight="bold" text-anchor="start">[</text>
+<text x="340" y="89" fill="#d0d0d0" font-weight="bold" text-anchor="start">]</text>
+<g class="m m3" style="animation-duration:3.7s; transform-origin:88px 89px">
+<rect x="88.0" y="78" width="85.0" height="12" fill="#5fd75f"/>
+<rect x="173.0" y="78" width="51.0" height="12" fill="#5f87ff"/>
+<rect x="224.0" y="78" width="34.0" height="12" fill="#ff5f5f"/>
+</g>
+<text x="352" y="89" fill="#7a7a7a" text-anchor="start">Postgres ClickHouse Vertica Redis S3</text>
+<text x="18" y="108" fill="#3fb6c6" text-anchor="start">DevOps</text>
+<text x="80" y="108" fill="#d0d0d0" font-weight="bold" text-anchor="start">[</text>
+<text x="340" y="108" fill="#d0d0d0" font-weight="bold" text-anchor="start">]</text>
+<g class="m m4" style="animation-duration:2.9s; transform-origin:88px 108px">
+<rect x="88.0" y="97" width="75.0" height="12" fill="#5fd75f"/>
+<rect x="163.0" y="97" width="45.0" height="12" fill="#5f87ff"/>
+<rect x="208.0" y="97" width="30.0" height="12" fill="#ff5f5f"/>
+</g>
+<text x="352" y="108" fill="#7a7a7a" text-anchor="start">Docker K8s Terraform GH Actions</text>
+<text x="650" y="32"><tspan fill="#3fb6c6">Tasks: </tspan><tspan fill="#d0d0d0" font-weight="bold">8 total, </tspan><tspan fill="#5fd75f" font-weight="bold">8 running</tspan></text>
+<text x="650" y="51"><tspan fill="#3fb6c6">Load average: </tspan><tspan fill="#d0d0d0" font-weight="bold"></tspan><tspan fill="#5fd75f" font-weight="bold">automate ×3</tspan></text>
+<text x="650" y="70"><tspan fill="#3fb6c6">Uptime: </tspan><tspan fill="#d0d0d0" font-weight="bold"></tspan><tspan fill="#5fd75f" font-weight="bold">always learning</tspan></text>
+<text x="650" y="89"><tspan fill="#3fb6c6">Location: </tspan><tspan fill="#d0d0d0" font-weight="bold"></tspan><tspan fill="#5fd75f" font-weight="bold">Kazakhstan</tspan></text>
+<text x="650" y="108"><tspan fill="#3fb6c6">Languages: </tspan><tspan fill="#d0d0d0" font-weight="bold"></tspan><tspan fill="#5fd75f" font-weight="bold">Python, SQL, Bash</tspan></text>
+<text x="18" y="137" fill="#e5c07b" text-anchor="start">zarina@nurzhanova: &quot;If it&#x27;s manual, it should be automated.&quot;</text>
+<rect x="12" y="149" width="936" height="19" fill="#5fd75f"/>
+<text x="18" y="162" fill="#000" font-weight="bold" text-anchor="start">PID</text>
+<text x="68" y="162" fill="#000" font-weight="bold" text-anchor="start">USER</text>
+<text x="143" y="162" fill="#000" font-weight="bold" text-anchor="start">PRI</text>
+<text x="183" y="162" fill="#000" font-weight="bold" text-anchor="start">CPU%</text>
+<text x="233" y="162" fill="#000" font-weight="bold" text-anchor="start">MEM%</text>
+<text x="283" y="162" fill="#000" font-weight="bold" text-anchor="start">TIME+</text>
+<text x="358" y="162" fill="#000" font-weight="bold" text-anchor="start">Command</text>
+<rect class="sel" x="12" y="168" width="936" height="19" fill="#3fb6c6" fill-opacity="0.28"/>
+<text x="18" y="181" fill="#d0d0d0" text-anchor="start">101</text>
+<text x="68" y="181" fill="#d0d0d0" text-anchor="start">zarina</text>
+<text x="143" y="181" fill="#d0d0d0" text-anchor="start">20</text>
+<text x="183" y="181" fill="#d0d0d0" text-anchor="start">99.0</text>
+<text x="233" y="181" fill="#d0d0d0" text-anchor="start">12.4</text>
+<text x="283" y="181" fill="#d0d0d0" text-anchor="start">∞</text>
+<text x="358" y="181"><tspan fill="#d0d0d0" font-weight="bold">uvicorn</tspan><tspan fill="#7a7a7a"> api.main:app --workers 4</tspan></text>
+<text x="942" y="181" fill="#4e4e4e" text-anchor="end"># FastAPI services</text>
+<text x="18" y="200" fill="#d0d0d0" text-anchor="start">102</text>
+<text x="68" y="200" fill="#d0d0d0" text-anchor="start">zarina</text>
+<text x="143" y="200" fill="#d0d0d0" text-anchor="start">20</text>
+<text x="183" y="200" fill="#d0d0d0" text-anchor="start">87.5</text>
+<text x="233" y="200" fill="#d0d0d0" text-anchor="start">8.1</text>
+<text x="283" y="200" fill="#d0d0d0" text-anchor="start">∞</text>
+<text x="358" y="200"><tspan fill="#d0d0d0" font-weight="bold">airflow</tspan><tspan fill="#7a7a7a"> scheduler --dag etl_daily</tspan></text>
+<text x="942" y="200" fill="#4e4e4e" text-anchor="end"># orchestration</text>
+<text x="18" y="219" fill="#d0d0d0" text-anchor="start">103</text>
+<text x="68" y="219" fill="#d0d0d0" text-anchor="start">zarina</text>
+<text x="143" y="219" fill="#d0d0d0" text-anchor="start">20</text>
+<text x="183" y="219" fill="#d0d0d0" text-anchor="start">92.3</text>
+<text x="233" y="219" fill="#d0d0d0" text-anchor="start">31.7</text>
+<text x="283" y="219" fill="#d0d0d0" text-anchor="start">∞</text>
+<text x="358" y="219"><tspan fill="#d0d0d0" font-weight="bold">spark-submit</tspan><tspan fill="#7a7a7a"> --master k8s://prod transform.py</tspan></text>
+<text x="942" y="219" fill="#4e4e4e" text-anchor="end"># big data</text>
+<text x="18" y="238" fill="#d0d0d0" text-anchor="start">104</text>
+<text x="68" y="238" fill="#d0d0d0" text-anchor="start">zarina</text>
+<text x="143" y="238" fill="#d0d0d0" text-anchor="start">20</text>
+<text x="183" y="238" fill="#d0d0d0" text-anchor="start">76.0</text>
+<text x="233" y="238" fill="#d0d0d0" text-anchor="start">9.6</text>
+<text x="283" y="238" fill="#d0d0d0" text-anchor="start">∞</text>
+<text x="358" y="238"><tspan fill="#d0d0d0" font-weight="bold">kafka-console-consumer</tspan><tspan fill="#7a7a7a"> --topic events</tspan></text>
+<text x="942" y="238" fill="#4e4e4e" text-anchor="end"># streaming</text>
+<text x="18" y="257" fill="#d0d0d0" text-anchor="start">105</text>
+<text x="68" y="257" fill="#d0d0d0" text-anchor="start">zarina</text>
+<text x="143" y="257" fill="#d0d0d0" text-anchor="start">20</text>
+<text x="183" y="257" fill="#d0d0d0" text-anchor="start">64.2</text>
+<text x="233" y="257" fill="#d0d0d0" text-anchor="start">4.2</text>
+<text x="283" y="257" fill="#d0d0d0" text-anchor="start">∞</text>
+<text x="358" y="257"><tspan fill="#d0d0d0" font-weight="bold">dbt</tspan><tspan fill="#7a7a7a"> run --select marts</tspan></text>
+<text x="942" y="257" fill="#4e4e4e" text-anchor="end"># modeling</text>
+<text x="18" y="276" fill="#d0d0d0" text-anchor="start">106</text>
+<text x="68" y="276" fill="#d0d0d0" text-anchor="start">zarina</text>
+<text x="143" y="276" fill="#d0d0d0" text-anchor="start">20</text>
+<text x="183" y="276" fill="#d0d0d0" text-anchor="start">98.8</text>
+<text x="233" y="276" fill="#d0d0d0" text-anchor="start">22.0</text>
+<text x="283" y="276" fill="#d0d0d0" text-anchor="start">∞</text>
+<text x="358" y="276"><tspan fill="#d0d0d0" font-weight="bold">python</tspan><tspan fill="#7a7a7a"> train.py --model catboost --track mlflow</tspan></text>
+<text x="942" y="276" fill="#4e4e4e" text-anchor="end"># ML</text>
+<text x="18" y="295" fill="#d0d0d0" text-anchor="start">107</text>
+<text x="68" y="295" fill="#d0d0d0" text-anchor="start">zarina</text>
+<text x="143" y="295" fill="#d0d0d0" text-anchor="start">20</text>
+<text x="183" y="295" fill="#d0d0d0" text-anchor="start">55.1</text>
+<text x="233" y="295" fill="#d0d0d0" text-anchor="start">3.3</text>
+<text x="283" y="295" fill="#d0d0d0" text-anchor="start">∞</text>
+<text x="358" y="295"><tspan fill="#d0d0d0" font-weight="bold">terraform</tspan><tspan fill="#7a7a7a"> apply -auto-approve</tspan></text>
+<text x="942" y="295" fill="#4e4e4e" text-anchor="end"># infra</text>
+<text x="18" y="314" fill="#d0d0d0" text-anchor="start">108</text>
+<text x="68" y="314" fill="#d0d0d0" text-anchor="start">zarina</text>
+<text x="143" y="314" fill="#d0d0d0" text-anchor="start">20</text>
+<text x="183" y="314" fill="#d0d0d0" text-anchor="start">71.9</text>
+<text x="233" y="314" fill="#d0d0d0" text-anchor="start">6.5</text>
+<text x="283" y="314" fill="#d0d0d0" text-anchor="start">∞</text>
+<text x="358" y="314"><tspan fill="#d0d0d0" font-weight="bold">python</tspan><tspan fill="#7a7a7a"> explore.py --topic llm-apps</tspan></text>
+<text x="942" y="314" fill="#4e4e4e" text-anchor="end"># curiosity</text>
+<text x="12" y="345" fill="#d0d0d0" font-weight="bold" text-anchor="start">F1</text>
+<rect x="28" y="332" width="74" height="19" fill="#3fb6c6"/>
+<text x="32" y="345" fill="#000" text-anchor="start">LinkedIn</text>
+<text x="110" y="345" fill="#d0d0d0" font-weight="bold" text-anchor="start">F2</text>
+<rect x="126" y="332" width="74" height="19" fill="#3fb6c6"/>
+<text x="130" y="345" fill="#000" text-anchor="start">Telegram</text>
+<text x="208" y="345" fill="#d0d0d0" font-weight="bold" text-anchor="start">F3</text>
+<rect x="224" y="332" width="50" height="19" fill="#3fb6c6"/>
+<text x="228" y="345" fill="#000" text-anchor="start">Email</text>
+<text x="282" y="345" fill="#d0d0d0" font-weight="bold" text-anchor="start">F5</text>
+<rect x="298" y="332" width="42" height="19" fill="#3fb6c6"/>
+<text x="302" y="345" fill="#000" text-anchor="start">Tree</text>
+<text x="348" y="345" fill="#d0d0d0" font-weight="bold" text-anchor="start">F9</text>
+<rect x="364" y="332" width="74" height="19" fill="#3fb6c6"/>
+<text x="368" y="345" fill="#000" text-anchor="start">Automate</text>
+<text x="446" y="345" fill="#d0d0d0" font-weight="bold" text-anchor="start">F10</text>
+<rect x="470" y="332" width="66" height="19" fill="#3fb6c6"/>
+<text x="474" y="345" fill="#000" text-anchor="start">Connect</text>
+</svg>
